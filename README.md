@@ -1,3 +1,3 @@
-# ChatServer
+# CS313 Networks Final Project
 
-CS313 Final Project
+
